@@ -1,2 +1,2 @@
 # Model-Comparison
-Model Comparision
+Model Comparison
